@@ -1,5 +1,9 @@
 # Tokens-And-Token-Factories
 
+Andrew Starling / 100191710
+
+------------------------
+
 * Utility tokens
 * Example utility token
 * Token factory use case
@@ -10,7 +14,8 @@
 Art provenance
 
 The goal 
-* To show a clear line of ownership for a work of art from artist to current owner.
+* To show a clear line of ownership for
+  a work of art from artist to current owner.
 
 People involved
 * Artist - originator of the art work.
